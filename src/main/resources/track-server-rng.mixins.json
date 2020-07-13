@@ -4,7 +4,9 @@
   "package": "luckytyphlosion.trackserverrng.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "WorldMixin"
+    "WorldMixin",
+    "MinecraftClientMixin",
+    "MinecraftServerMixin"
   ],
   "client": [
   ],
